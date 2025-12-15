@@ -1,5 +1,5 @@
 # international-debt-analysis-sql
-SQL project
+Analyzed World Bank international debt data using SQL to identify the number of indebted countries, determine the country with the highest total debt, and find the country with the lowest principal repayment. This project demonstrates the use of aggregation, grouping, filtering, and sorting to answer real-world economic questions.
 
 # International Debt Analysis (SQL)
 
