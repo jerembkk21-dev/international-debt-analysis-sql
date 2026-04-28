@@ -12,9 +12,7 @@ It answers key questions about:
 
 ## 2) Dataset
 
-- Source: World Bank (via DataCamp)
-
-- Table: `international_debt`
+- Source: World Bank (via DataCamp) Table: `international_debt`
 
 ## 3) Skills Demonstrated
 
