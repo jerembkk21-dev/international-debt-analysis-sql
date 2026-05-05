@@ -29,5 +29,5 @@ The database environment is read-only.
 ## 5) Key Results
 
 - Total distinct countries: 124
-- Highest debt country: 285793494734.2
-- Lowest principal repayment country: 825000
+- Highest debt country: 285793494734.2 for China
+- Lowest principal repayment country: 825000 for Timor-Leste
