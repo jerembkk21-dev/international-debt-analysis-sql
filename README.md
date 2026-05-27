@@ -23,7 +23,7 @@ It answers key questions about:
 
 ## 4) Screenshots
 
-![Dashboard Screenshot](international_debts.png)
+![Dashboard Screenshot](international_debt.png)
 
 
 ## 5) Platform
