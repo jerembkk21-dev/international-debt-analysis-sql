@@ -21,12 +21,17 @@ It answers key questions about:
 - Filtering with WHERE
 - Data analysis logic
 
-## 4) Platform
+## 4) Screenshots
+
+![Dashboard Screenshot](international_debts.png)
+
+
+## 5) Platform
 
 This project was completed on DataCamp.
 The database environment is read-only.
 
-## 5) Key Results
+## 6) Key Results
 
 - Total distinct countries: 124
 - Highest debt country: 285793494734.2 for China
